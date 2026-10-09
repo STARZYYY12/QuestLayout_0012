@@ -43,3 +43,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
             text = stringResource(id = R.string.univ),
             fontSize = 22.sp
         )
+        Spacer(modifier = Modifier.height(25.dp))
+        Card(
+            modifier = Modifier
+                .fillMaxWidth(fraction = 1f)
+                .padding(all = 12.dp),
+         }
