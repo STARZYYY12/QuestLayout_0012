@@ -82,3 +82,8 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 }
             }
         }
+
+        Box(
+            modifier = Modifier
+                .fillMaxSize()
+        ) {
